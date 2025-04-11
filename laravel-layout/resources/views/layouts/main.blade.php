@@ -7,7 +7,7 @@
     <style>
         body { font-family: Arial, sans-serif; padding: 20px; }
         .container { max-width: 800px; margin: auto; }
-        .header, .footer { background: #007bff; color: white; text-align: center; padding: 10px; }
+        .header, .footer { background:rgb(245, 168, 238); color: white; text-align: center; padding: 10px; }
     </style>
 </head>
 <body>
